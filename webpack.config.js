@@ -20,6 +20,6 @@ module.exports = {
         ]
     },
     plugins: [
-        html
+        new html()
     ]
 }
